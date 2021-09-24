@@ -5,10 +5,10 @@ body {
 }
 #showcase {
     background-image: url('Images/knowledge.jpg');
-    height: 95vh;
+    height: 90vh;
     background-size: cover;
     background-position: center;
-    color: #fff;
+    color: rgb(247, 8, 60);
 }
 @media (max-width: 768px) {
     #showcase {
